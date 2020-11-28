@@ -60,7 +60,7 @@ def main():
 
 	print('Wrote file to %s' % md_fname)
 
-	f = open('BREADME.md', 'r')
+	f = open('README.md', 'r')
 	readme = f.readlines()
 	f.close()
 
@@ -85,12 +85,12 @@ def main():
 
 	
 
-	shutil.copy('BREADME.md', 'README_old.md')
-	shutil.move('README_new.md', 'BREADME.md')
+	shutil.copy('README.md', 'README_old.md')
+	shutil.move('README_new.md', 'README.md')
 
 	shutil.copy('%s/today.md'% folder, '%s/old.md'%folder)
 	shutil.copy('%s/template.md' %folder, '%s/today.md'%folder)
-	print('Updated BREADME.md')
+	print('Updated README.md')
 
 if __name__ == '__main__':
 	main()
