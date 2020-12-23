@@ -2,16 +2,13 @@
 
 Hi! Here are some of the things I've baked and the narratives surrounding them. Asterisks denote recipes I would make again (and again and again).
 
-My tenets
-- slow down and maximize resting (allowing time for flavor development)
-- minimize waste (use up random ingredients that have been lying around)
-- chuck everything in the bread machine, pizza dough setting.
-- minimize bowl-washing and sifting
-- value taste over looks
-- reduce the sugar
-- go nuts, add nuts
-- follow intuition over precise measurements
-- question, explore, and develop origins and narratives of recipes
+### Values
+- Slow down and maximize resting; allow time for flavor development
+- Minimize waste (use up random ingredients that have been lying around), bowl-washing and sifting
+- Pizza dough setting in bread machine
+- Taste over looks, intuition over precise measurements
+- Less sugar, more nuts
+- Question, explore, and develop origins and narratives
 
 ## Bread
 **Dec 23, 2020**: Peter Reinhart's 100% WW sandwich bread, Artisan Breads Everyday
@@ -50,4 +47,4 @@ My tenets
 **Dec 11, 2020**: Chickpea stew
 
 ## Real Estate (!)
-**Dec 22, 2020**: [Gingerbread house](cake/gingerbread.md)
+**Dec 22, 2020**: [Gingerbread house](cake/gingerbreadhouse.md)
