@@ -35,15 +35,9 @@ My tenets
 ## Cake
 **Dec 23, 2020:** [Chocolate babka](cake/chobab.md)
 
-<<<<<<< HEAD
 **Dec 12, 2020:** Persimmon cake, [David Lebovitz](https://www.davidlebovitz.com/persimmon-bread/)
 
 **Nov 27, 2020:** [Orange-cardamom chiffon cake](cake/orangecard.md)
-=======
-**Dec 12, 2020:** [Persimmon cake](https://www.davidlebovitz.com/persimmon-bread/)
-
-**Nov 27, 2020:** [Orange-Cardamom Chiffon Cake](cake/orangecard.md)
->>>>>>> a5ec979c594b8afb2489b62ba306d451d9da1de2
 
 ## Cookies
 **Dec 21, 2020:** Tiger stripe sables, [Susan Spugen](https://cherrybombe.com/recipes/susan-spungen-tiger-striped-sables) (more like tree logs...)
@@ -51,11 +45,7 @@ My tenets
 **Dec 19, 2020:** Chocolate rye cookies, [Pastry Love](https://www.epicurious.com/recipes/food/views/double-chocolate-rye-cookies)
 
 ## Dinner
-<<<<<<< HEAD
 **Dec 14, 2020**: Hummus, Hot Bread Kitchen*
-=======
-**Dec 14, 2020**: Hot Bread Kitchen Hummus*
->>>>>>> a5ec979c594b8afb2489b62ba306d451d9da1de2
 
 **Dec 11, 2020**: Chickpea stew
 
