@@ -2,7 +2,6 @@
 
 Hi! Here are some of the things I've baked and the narratives surrounding them. Asterisks denote recipes I would make again (and again and again).
 
-<<<<<<< HEAD
 My tenets
 - slow down and maximize resting (allowing time for flavor development)
 - minimize waste (use up random ingredients that have been lying around)
@@ -20,12 +19,6 @@ My tenets
 **Dec 17, 2020**: Rustic italian ciabatta, [King Arthur](https://www.kingarthurbaking.com/recipes/rustic-italian-ciabatta-recipe)*
 
 **Dec 14, 2020**: Pita bread, Hot Bread Kitchen
-=======
-## Bread
-**Dec 17, 2020**: [Rustic Italian Ciabatta](https://www.kingarthurbaking.com/recipes/rustic-italian-ciabatta-recipe)*
-
-**Dec 14, 2020**: Hot Bread Kitchen Pita bread
->>>>>>> a5ec979c594b8afb2489b62ba306d451d9da1de2
 
 **Dec 12, 2020:** Russian rye bread, [King Arthur](https://www.kingarthurbaking.com/recipes/russian-rye-bread-rizhsky-khleb-recipe)
 
