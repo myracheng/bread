@@ -1,23 +1,24 @@
 # Orange-Cardamom Chiffon Cake
 
 Source: [Just One Cookbook](https://www.justonecookbook.com/meyer-lemon-chiffon-cake/)
+
 Time: 1 hour
+
 Notes: made as a last-minute Thanksgiving dessert
+
 
 ## Ingredients
  
-| Ingredient  | Amount |
-|---|--:|---|
-|  all-purpose flour  | 69 g |
-| tapioca starch  | 6g |
-| sugar | 85 g |
-|  baking powder |  1 tsp |
-| yeast |  g |
-| salt |  g |
-| eggs |  3 |
-| oil |  40 g |
-| navel orange | 1 large |
-| ground cardamom | 1 tsp |
+|Ingredient|Amount|
+|---|---:|
+|all-purpose flour |69 g|
+|tapioca starch |6g|
+|sugar|85 g|
+|baking powder|1 tsp|
+|eggs|3|
+|oil|40 g|
+|navel orange|1 large|
+|ground cardamom|1 tsp|
 
 ## Instructions
 1. Gather all the ingredients and a deep 6-inch cake pan. Grease the bottom of the cake pan only.
