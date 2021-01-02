@@ -1,42 +1,39 @@
-# Bagels bagels bagels
+# Seafood Pancake
 
-<center><img src="../img/title.jpg" alt="title" style="width:40%;"/></center>
+<center><img src="../img/seafpancake0.jpg" alt="title" style="width:40%;"/></center>
+<center><img src="../img/seafpancake1.jpg" alt="title" style="width:40%;"/></center>
 
-Source: [Artisan Breads Every Day](https://www.epicurious.com/recipes/food/views/bagels-366757)
+Source: [Hooni Kim](https://food52.com/recipes/83213-korean-scallion-pancakes-pajeon-recipe), [Korean Bapsang](https://www.koreanbapsang.com/haemul-pajeon/), [Omnivore's Cookbook](https://omnivorescookbook.com/korean-seafood-pancake/)
 
-Time: 2 days
+Time: 30 min
 
-Notes: The normal ones turned out great (a bit small because I made 8) but the raisin ones just looked totally wonky - possibly because of the sugar/water/yeast that the broken raisins released, or the over-kneading to incorporate raisins into the dough? I would also put less molasses next time. But my stomach kinda hurt and the only thing that I wanted to eat is bagels, so I ate like 1.5 demented cinnamon raisin bagels. There are so many variations I want to try: whole-wheat, rye, cinnamon-raisin properly, matcha/turmeric/cocoa/rainbow, chili flakes.... maybe a steam bath?
+Notes: I mixed some of the seafood into the batter, which made it kind of uneven. I also kinda skimped on the scallions.
 
-Story: idk man i just wanted to make bagels.  
+Story:
 
 ## Ingredients
-### Dough
+
 |Ingredient|Amount|
 |---|---:|
-|all-purpose flour|440 g|
-|vital wheat gluten|14 g|
-|molasses|21 g (too much!)|
-|water|255 g|
-|yeast|3 g|
-|salt|10.5 g|
-|oil|g|
-### Poaching liquid
-|Ingredient|Amount|
-|---|---:|
-|lye water|100 g|
-|salt|7 g|
-|water|medium sauce/stew pot to the two dot line|
+|scallions|many bunches|
+|chopped seafood|2 cups|
+|all-purpose flour|3/4 cup|
+|tapioca flour|1/4 cup|
+|sugar|pinch|
+|salt|pinch|
+|ice-cold water|1 cup + 2 tbsp|
+|eggs|1|
+|oil|2 tbsp|
+
 
 ## Instructions
-1. Combine dough ingredients for 3 minutes until well blended. The dough should form a stiff, coarse ball, and the flour should be fully hydrated; if it isn’t, stir in a little more water. Let the dough rest for 5 minutes.
-2. Resume mixing with the dough hook on the lowest speed for another 3 minutes. The dough should be stiff yet supple, with a satiny, barely tacky feel. If the dough seems too soft or overly tacky, mix or knead in a little more flour.
-Place the dough in a clean, lightly oiled bowl, cover the bowl tightly with plastic wrap, and stick in fridge overnight or up to 2 days.
-3. When you’re ready to shape the bagels, prepare a sheet pan by lining it with parchment paper. Divide the dough into 6 to *8* equal pieces. Form each piece into a loose ball by rolling it on a clean, dry work surface with a cupped hand. (Don’t use any flour on the work surface. If the dough slides around and won’t ball up, wipe the surface with a damp paper towel and try again; the slight bit of moisture will provide enough traction for the dough to form into a ball.)
-4. Two methods to shape: The first method is to poke a hole through the center of the ball to create a donut shape. Holding the dough with both thumbs in the hole, rotate the dough with your hands, gradually stretching it to create a hole about 2 inches in diameter. The second method, preferred by professional bagel makers, didnt work for me...maybe makign the ropes more even would have been [good](https://www.kingarthurbaking.com/blog/2020/01/15/how-to-shape-bagels).
-5. Proof 60 to 90 minutes, and check whether the bagels are ready for baking using the “float test”: Place one of the bagels in a small bowl of cold water. If it sinks and doesn’t float back to the surface, shake it off, return it to the pan, and wait for another 15 to 20 minutes, then test it again. If they pass the float test before you are ready to boil and bake them, return them to the refrigerator so they don’t overproof. 
-6. Preheat oven to 500°F (260°C) and gather and prepare your garnishes (seeds, onions, garlic, and so on).
-7. To make the poaching liquid, fill a pot with 2 to 3 quarts (64 to 96 oz / 181 to 272 g) of water, making sure the water is at least 4 inches deep. Cover, bring to a boil, then lower the heat to maintain at a simmer. Stir in the GOODS.
-8. Gently lower each bagel into the simmering poaching liquid, adding as many as will comfortably fit in the pot. They should all float to the surface within 15 seconds. After 1 minute, use a slotted spoon to turn each bagel over. Poach for another 30 to 60 seconds, then use the slotted spoon to transfer it back to the pan, domed side up. 
-9. Sprinkle on a generous amount of whatever toppings you like as soon as the bagels come out of the water.
-10. Transfer the pan of bagels to the oven, then lower the oven heat to 450°F (232°C). Bake for 15 minutes.
+1. Combine the dry ingredients of the batter in a medium-sized bowl. Slowly stir in the water and mix with a spatula until it forms a smooth, runny batter that can just coat the back of a spoon (thinner than pancake, thicker than crepe). Add a bit more water if the batter is still a bit thick and mix again.
+2. Heat 2 tablespoons of oil over medium-high heat in a large skillet until hot.
+3. Add half the green onions to the pan in a single even layer, forming a rectangle about 7” by 9” (18 cm by 23 cm).
+4. Drizzle about 1/4 cup of batter evenly over the green onions.
+5. Spread 1/3 cup of seafood mix evenly across the pancake and drizzle another 1/4 cup of batter evenly over the seafood.
+6. Turn the heat to medium and allow the pancake to cook for 1 minute.
+7. Add half of the beaten egg over the pancake and spread it with a brush or a spoon to form an even layer.
+8. Cook the pancake for another 1 to 2 minutes, occasionally checking underneath, until it is browned and crisp.
+9. In one fluid motion, flip the pancake using a spatula (or two spatulas). It may be necessary to add another tablespoon of oil to the pan.
+10. Cook the pancake until the seafood side is browned and cooked through, another 2 to 4 minutes.

@@ -6,7 +6,7 @@ Source: [https://whattocooktoday.com/nian-gao.html](What to Cook Today)
 
 Time:
 
-Notes: This made too much, would probably do 2/3 next time. and also it was reallyyyy sticky so would try a recipe with rice flour, and less sugar
+Notes: This made too much, would probably do 2/3 next time. and also it was reallyyyy sticky so would try a recipe with rice flour, and less sugar. want to try [this](https://dusdoughs.com/2020/10/23/baked-sweet-nian-gao-mochi-cake/) next time.
 
 Story: I finally got my hands on some sweet rice flour by going to Ranch 99 with Nora! I wanted to make some form of 粘糕 to celebrate the new year, and I've never made a steamed version before (always the butter mochi version). I think I still like that version better, but this was cool to try out.
 
