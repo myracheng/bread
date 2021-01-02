@@ -11,6 +11,8 @@ Hi! Here are some of the things I've baked and the narratives surrounding them. 
 - Question, explore, and develop origins and narratives
 
 ## Bread
+**Dec 29, 2020:** [Bagels bagels bagels](bread/bagels.md)
+
 **Dec 23, 2020**: Peter Reinhart's 100% WW sandwich bread, Artisan Breads Everyday
 
 **Dec 17, 2020**: Rustic italian ciabatta, [King Arthur](https://www.kingarthurbaking.com/recipes/rustic-italian-ciabatta-recipe)*
@@ -30,6 +32,10 @@ Hi! Here are some of the things I've baked and the narratives surrounding them. 
 **Nov 28 - Dec 2, 2020:** 100% whole wheat oat bread, [SK](https://smittenkitchen.com/2015/09/oat-and-wheat-sandwich-bread/) (proved 24 hrs & 72 hrs)
 
 ## Cake
+**Jan 01, 2021:** [Red Bean Nian Gao](cake/redbeanniangao.md)
+
+**Dec 27, 2020:** Gingerbread, [Smitten Kitchen](https://smittenkitchen.com/2015/12/gingerbread-layer-cake/) (1/3 in 6" pan)
+
 **Dec 23, 2020:** [Chocolate babka](cake/chobab.md)
 
 **Dec 12, 2020:** Persimmon cake, [David Lebovitz](https://www.davidlebovitz.com/persimmon-bread/)
@@ -42,6 +48,8 @@ Hi! Here are some of the things I've baked and the narratives surrounding them. 
 **Dec 19, 2020:** Chocolate rye cookies, [Pastry Love](https://www.epicurious.com/recipes/food/views/double-chocolate-rye-cookies)
 
 ## Dinner
+**Dec 28, 2020**: Oysters with garlic sauce, [China Sichuan Food](https://www.chinasichuanfood.com/oyster-with-garlic-sauce/)
+
 **Dec 14, 2020**: Hummus, Hot Bread Kitchen*
 
 **Dec 11, 2020**: Chickpea stew

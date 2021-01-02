@@ -25,7 +25,7 @@ def main():
 	if 'TODO' in info_line:
 		raise ValueError('today.md has no new information.')
 	
-	md_title = writeup[0][2:].lower()
+	md_title = writeup[0][2:-1].lower().replace(" ", "") 
 
 	title = writeup[0][2:-1]
 	md_fname = join(folder, md_title + '.md')
